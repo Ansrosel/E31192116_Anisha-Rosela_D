@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "E31192116_Tugas5_Fragment"
